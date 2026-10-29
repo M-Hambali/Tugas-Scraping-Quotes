@@ -1,4 +1,4 @@
-# LAPORAN PRAKTIKUM
+# LAPORAN TUGAS
 ## EKSTRAKSI DAN PENGOLAHAN DATA WEB
 ### Komparasi Web Scraping Statis vs Dinamis pada Website Berbasis JavaScript (Client-Side Rendering)
 
