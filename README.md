@@ -94,31 +94,9 @@ Untuk membuktikan apakah terdapat endpoint API / XHR terpisah:
 
 ---
 
-## 📄 Berkas Laporan Praktikum
+## 📄 Laporan
 
-Laporan praktikum lengkap 1–2 halaman yang memuat metodologi, analisis penyebab kegagalan scraping statis, bukti observasi DevTools Network, dan kesimpulan dapat dibaca langsung pada:
-👉 **[output/laporan_praktikum.md](output/laporan_praktikum.md)**
+Laporan lengkap 1–2 halaman yang memuat metodologi, analisis penyebab kegagalan scraping statis, bukti observasi DevTools Network, dan kesimpulan dapat dibaca langsung pada:
+👉 **[laporan_Tugas.md](laporan_Tugas.md)**
 
 ---
-
-## 📤 Panduan Mengunggah ke GitHub
-
-Jika ingin mengumpulkan atau menyimpan proyek ini ke repositori GitHub:
-
-```powershell
-# Inisialisasi Git
-git init
-
-# Tambahkan berkas yang relevan (folder .venv akan diabaikan oleh .gitignore)
-git add main.py requirements.txt README.md .gitignore output/
-
-# Lakukan commit awal
-git commit -m "feat: implementasi scraping statis vs dinamis quotes to scrape"
-
-# Sambungkan ke repositori GitHub Anda (ganti URL di bawah dengan milik Anda)
-git branch -M main
-git remote add origin https://github.com/USERNAME_ANDA/NAMA_REPO.git
-
-# Unggah ke GitHub
-git push -u origin main
-```
